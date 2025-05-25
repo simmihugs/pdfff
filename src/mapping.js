@@ -4,6 +4,6 @@ export const mapping = [
   { index: 2, label: "Subject" },
   { index: 3, label: "Emergency Address" },
   { index: 4, label: "Signature" },
-  { index: 5, label: "Date" },
-  { index: 6, label: "Additional Field" },
+  //{ index: 5, label: "Date" },
+  //{ index: 6, label: "Additional Field" },
 ];
