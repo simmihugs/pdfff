@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+    <!-- Krug-Körper -->
+    <rect x="28" y="40" width="48" height="60" rx="8" fill="#FFD966" stroke="#b8860b"
+        stroke-width="3" />
+    <!-- Henkel -->
+    <path d="M76 50 Q105 60 76 90" fill="none" stroke="#b8860b" stroke-width="8" />
+    <!-- Schaum oben -->
+    <ellipse cx="38" cy="40" rx="12" ry="8" fill="#fff" />
+    <ellipse cx="52" cy="36" rx="10" ry="7" fill="#fff" />
+    <ellipse cx="66" cy="40" rx="13" ry="9" fill="#fff" />
+    <ellipse cx="60" cy="32" rx="7" ry="5" fill="#fff" />
+    <!-- Details: Linien im Glas -->
+    <rect x="40" y="52" width="4" height="40" rx="2" fill="#fff2b2" opacity="0.5" />
+    <rect x="52" y="52" width="4" height="40" rx="2" fill="#fff2b2" opacity="0.5" />
+    <rect x="64" y="52" width="4" height="40" rx="2" fill="#fff2b2" opacity="0.5" />
+</svg>
